@@ -1,0 +1,21 @@
+p{
+    margin-right: 20px;
+}
+.comments{
+    padding: 2px 4px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(61, 80, 250);
+}
+.gray{
+    color: rgb(173, 173, 173);
+}
+.red{
+    color: red;
+}
+.bold{
+    font-weight: bold;
+}
+li{
+    border-bottom: 1px solid gray;
+}
